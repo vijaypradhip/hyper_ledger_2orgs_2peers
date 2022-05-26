@@ -8,3 +8,5 @@ const Product = require('./lib/pdt');
 
 module.exports.Product = this.Product;
 module.exports.contracts = [ Product ];
+/* This is a sample project
+*/
